@@ -1,0 +1,20 @@
+{
+  "name": "minesdeep",
+  "description": "Ipsum elit illum cillum minim esse illum quis cillum multos",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "Igor Padoim",
+      "email": "igorpadoim@gmail.com",
+      "web": "https://nereare.com/"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/Nereare/minesdeep/issues"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "phaser": "^3.86.0"
+  }
+}
