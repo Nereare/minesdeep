@@ -1,14 +1,19 @@
 ---
 title: Home
-layout: home
-nav_order: 0
 ---
 
 Welcome to this wiki page!
 
 Here you will find information regarding the universe in which Minesdeep resides.
 
-{: .red-title }
-> Warning
->
-> Please do note that this wiki contains **spoilers**!! Read at your own peril.
+## [History](history/)
+
+{% if site.history.size > 1 %}
+{% for article in site.history %}
+{% unless article.is_index %}
+- [{{ article.title }}](article.url)
+{% endunless %}
+{% endfor %}
+{% else %}
+Not subarticles under this topic.
+{% endif %}

@@ -1,5 +1,8 @@
 ---
 title: History
+layout: default
+is_index: true
+permalink: /history/
 ---
 
 The current events of Minesdeep occur during its 11th age of the Dragons, the 5th age of the Elves and the 2nd age of Men.
@@ -64,17 +67,17 @@ The war ended as the Gods agreed to ascend Dragons to immortalhood as well.
 
 ## Second Age
 
-| Year | Angelic Year | Event |
-|:----:|:------------:|:------|
-| 0 | 0TA | War of Tears Ends |
-| 870 | 870TA | Most Overworld is Rebuilt |
-| 923 | 923TA | Reopening of Plumepeak College |
-| 1.290 | 1.290TA | Fates Reapear Shortly |
-| 1.291 | 1.291TA | Hecate is Born |
-|^^|^^| Epic Magic Looses Strength |
-| 2.310 | 2.310TA | Founding of Decamvirate |
+| Year  | Angelic Year | Event                          |
+| :---: | :----------: | :----------------------------- |
+|   0   |     0TA      | War of Tears Ends              |
+|  870  |    870TA     | Most Overworld is Rebuilt      |
+|  923  |    923TA     | Reopening of Plumepeak College |
+| 1.290 |   1.290TA    | Fates Reapear Shortly          |
+| 1.291 |   1.291TA    | Hecate is Born                 |
+|  ^^   |      ^^      | Epic Magic Looses Strength     |
+| 2.310 |   2.310TA    | Founding of Decamvirate        |
 
-### Hekate
+### Hecate
 
 A Greater God born after much of History had happened.
 
