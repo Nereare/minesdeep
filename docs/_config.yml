@@ -1,7 +1,7 @@
 title: Minesdeep Wiki
 description: A collection of information regarding Minesdeep's universe.
 
-theme: just-the-docs
+remote-theme: "just-the-docs/just-the-docs"
 mermaid:
   version: "11.4.0"
 aux_links:
