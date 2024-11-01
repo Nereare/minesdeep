@@ -195,3 +195,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/osx,node,code,linux,grunt,macos,dropbox,windows
+
+### Docs/ Folder's Jekyll ###
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

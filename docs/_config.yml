@@ -1,0 +1,40 @@
+title: Minesdeep Wiki
+description: A collection of information regarding Minesdeep's universe.
+
+theme: just-the-docs
+mermaid:
+  version: "11.4.0"
+aux_links:
+  Repo: https://github.com/Nereare/minesdeep
+aux_links_new_tab: true
+footer_content: "Go forth and create a world of your own making!"
+gh_edit_link: false
+
+callouts:
+  grey:
+    color: grey-lt
+  blue:
+    color: blue
+  green:
+    color: green
+  yellow:
+    color: yellow
+  red:
+    color: red
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-spaceship
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
