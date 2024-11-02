@@ -5,9 +5,11 @@ is_index: true
 permalink: /history/
 ---
 
+## History
+
 The current events of Minesdeep occur during its 11th age of the Dragons, the 5th age of the Elves and the 2nd age of Men.
 
-## Mythic Age
+### Mythic Age
 
 |  Year  | Event                      |
 | :----: | :------------------------- |
@@ -20,7 +22,7 @@ The current events of Minesdeep occur during its 11th age of the Dragons, the 5t
 |   ^^   | Formation of God's Council |
 | ~950Ga | Non-Sentient Life          |
 
-## First Age
+### First Age
 
 All ages and years henceforth will abide by Draconic standards. Non-Draconic years and ages will be noted where applicable.
 
@@ -55,7 +57,7 @@ All ages and years henceforth will abide by Draconic standards. Non-Draconic yea
 | 7.891 |   1.640SA    | Second Draconic Aliance      |
 |  ^^   |      ^^      | War of Tears Begins          |
 
-### War of Tears
+#### War of Tears
 
 During this war, two fronts battled: Dragons (with pseudodragons, hordes of devils, some demons, scattered fae, and recently created monstrosities) against Gods (with angels). The recently discovered - but already mastered - Epic Magic the Dragons could wield laid waste to the armies of lesser gods and angels.
 
@@ -65,7 +67,7 @@ Dragons harbored a growing resentment towards the Gods for allowing them to die,
 
 The war ended as the Gods agreed to ascend Dragons to immortalhood as well.
 
-## Second Age
+### Second Age
 
 | Year  | Angelic Year | Event                          |
 | :---: | :----------: | :----------------------------- |
@@ -77,13 +79,13 @@ The war ended as the Gods agreed to ascend Dragons to immortalhood as well.
 |  ^^   |      ^^      | Epic Magic Looses Strength     |
 | 2.310 |   2.310TA    | Founding of Decamvirate        |
 
-### Hecate
+#### Hecate
 
 A Greater God born after much of History had happened.
 
 While scholars hold her as **born** from nothing in 1.291 of the Second Draconic Age, some believe her existing since the begining of History, and hiding Herself from even the other Gods up until then.
 
-### Decumvirate
+#### Decumvirate
 
 Now immortal, Dragons were faced with an endless life and a renewed breath of civilization.
 
