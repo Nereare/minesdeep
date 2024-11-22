@@ -3,6 +3,7 @@ name: Build Jekyll Pages
 on:
   push:
     branches: ["master"]
+    paths: ["./docs"]
 
 permissions:
   contents: read
