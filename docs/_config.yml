@@ -1,29 +1,75 @@
+# Required Block
 title: Minesdeep Wiki
+email: igorpadoim@gmail.com
 description: A collection of information regarding Minesdeep's universe.
-language: en-US
+collect_short: true
+# Optional Information
+version:
+  text: Version
+  version: "0.1.0"
+copyright:
+  text: "&copy;"
+  year: 2014
+  name: Igor Padoim
+license:
+  text: This work is licensed under
+  name: CC BY-NC-SA 4.0
+  link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-theme: jekyll-theme-minimal
-show_downloads: false
-
-collections:
-  history:
-    output: true
-  gods:
-    output: true
-
+# Do-not-change Blocks
+theme: nereare_grimoire
+markdown: kramdown
 plugins:
-  - jekyll-github-metadata
-  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-spaceship
+
+# Collections
+collections:
+  adventures:
+    output: true
+    sort_by: title
+  ages:
+    output: true
+    sort_by: title
+  animals:
+    output: true
+    sort_by: title
+  chapters:
+    output: true
+    sort_by: chapter.book
+  items:
+    output: true
+    sort_by: title
+  monsters:
+    output: true
+    sort_by: title
+  plants:
+    output: true
+    sort_by: title
+  posts:
+    output: true
+    sort_by: title
+  settlements:
+    output: true
+    sort_by: title
+  spells:
+    output: true
+    sort_by: title
 
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - node_modules/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - CHANGELOG.md
+  - CODE-OF-CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - OGL.md
+  - README.md
